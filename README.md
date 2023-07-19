@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Sakshi 👋
 
-I'm a software developer Enthusiast! I'm passionate about coding and software development. I enjoy building applications and exploring new technologies.
+👋 Hello, I'm a Software Developer Enthusiast! 💻🚀 I'm passionate about coding and software development. I enjoy building applications and exploring new technologies. 💡
 
-## Skills
+
+## Skills 💻🔧
 
 - Programming languages: Python, JavaScript, Java, C, C++.
 - Web development: HTML, CSS, React
@@ -28,10 +29,10 @@ I'm a software developer Enthusiast! I'm passionate about coding and software de
 - Frameworks: Django, Flask, Angular
 - Machine Learning
   
-## Most Used Languages
+## Most Used Languages 🌐🔥
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2215&layout=compact&hide=html)
 
-## Working Tools
+## Working Tools 🛠️🔧
 
  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
@@ -46,7 +47,7 @@ I'm a software developer Enthusiast! I'm passionate about coding and software de
 
 
 
-## Find Me on the Web
+## Find Me on the Web 🌐
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshi2215)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-sinha-5a0a2b226/)
