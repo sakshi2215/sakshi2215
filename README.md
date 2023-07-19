@@ -33,19 +33,16 @@ I'm a software developer Enthusiast! I'm passionate about coding and software de
 
 ## Working Tools
 
-- Integrated Development Environments (IDEs):
-  - ![Visual Studio Code](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.png)
-  - ![Atom](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_atom.png)
-  - ![Jupyter](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jupyter.png)
-- Cloud Platforms:
-  - ![AWS](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.png)
-- Version Control:
-  - ![Git](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.png)
-  - ![GitHub](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_github.png)
-- Other Tools:
-  - ![Arduino](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_arduino.png)
-  - ![C++](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp.png)
-  - ![Canva](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_canva.png)
+ [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+
 
 
 
