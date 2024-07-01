@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - Backend development: Node.js
 - Databases: MySQL.
 - Version control: Git, GitHub
-- Frameworks: Django, Flask, Angular
-- Machine Learning
+- Frameworks: Django, Flask
+- Machine Learning,Deep Learning, NLP
   
 ## Most Used Languages 🌐🔥
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2215&layout=compact&hide=html)
