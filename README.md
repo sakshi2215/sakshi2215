@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 ## Skills 💻🔧
 
-- Programming languages: Python, JavaScript, Java, C, C++.
-- Web development: HTML, CSS, React
-- Backend development: Node.js
-- Databases: MySQL.
-- Version control: Git, GitHub
-- Frameworks: Django, Flask
-- Machine Learning,Deep Learning, NLP
+- Programming languages: Python, JavaScript, C++.
+- Frontend development: HTML, CSS, React, Tailwind.
+- Backend development: Node.js, Javascript
+- Databases: MySQL, MongoDB.
+- Version control: Git, GitHub.
+- Frameworks: Django, Flask.
+- Machine Learning, Deep Learning, NLP, LLMs.
   
 ## Most Used Languages 🌐🔥
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2215&layout=compact&hide=html)
