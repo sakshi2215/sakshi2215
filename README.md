@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - Frameworks: Django, Flask.
 - Machine Learning, Deep Learning, NLP, LLMs.
   
-## Most Used Languages 🌐🔥
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2215&layout=compact&hide=html)
 
 ## Working Tools 🛠️🔧
 
@@ -45,7 +43,10 @@ Here are some ideas to get you started:
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
 
-
+## My Stats
+![sakshi2215's Stats](https://github-readme-stats.vercel.app/api?username=sakshi2215&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![sakshi2215's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi2215&theme=vue-dark&hide_border=false)
+![sakshi2215's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2215&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Find Me on the Web 🌐
 
