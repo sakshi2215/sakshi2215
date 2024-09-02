@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - Version control: Git, GitHub.
 - Frameworks: Django, Flask.
 - Machine Learning, Deep Learning, NLP, LLMs.
+- Game Development: GDScript
   
 
 # 💻 Tech Stack:
