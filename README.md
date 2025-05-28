@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 ## Skills 💻🔧
 
 - Programming languages: Python, JavaScript, C++.
-- Frontend development: HTML, CSS, React.
+- Frontend development: HTML, CSS.
 - Backend development: Nodejs, Javascript.
 - Databases: MySQL, MongoDB.
-- Version control: Git.
 - Frameworks: Django, Flask.
-- Machine Learning, Deep Learning, NLP, LLMs.
+- Tools: Postman, ThunderClient, Git, VSCode
+- Machine Learning, Deep Learning, NLPs.
 
   
 
